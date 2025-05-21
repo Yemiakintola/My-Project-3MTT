@@ -1,10 +1,7 @@
 streamlit
-scikit-learn
 pandas
+matplotlib
+seaborn
+sklearn
 numpy
 joblib
-matplotlib.pyplot
-seaborn 
-sklearn StandardScaler
-OneHotEncoder
-LabelEncoder
